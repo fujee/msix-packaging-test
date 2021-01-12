@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="file:///C:/Temp/Apps/Demo-x86/UploaderInstaller.appinstaller"
+	Uri="https://fujee.github.io/msix-packaging-test/UploaderInstaller.appinstaller"
 	Version="1.0.24.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="2522553c-ffad-4162-9bce-03f823a8f853"
