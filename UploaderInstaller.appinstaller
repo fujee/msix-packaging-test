@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="file:///C:/Temp/Apps/Demo-x86/UploaderInstaller.appinstaller"
-	Version="1.0.21.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.22.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="2522553c-ffad-4162-9bce-03f823a8f853"
-		Version="1.0.21.0"
+		Version="1.0.22.0"
 		Publisher="CN=TestMaster"
-		Uri="file:///C:/Temp/Apps/Demo-x86/UploaderInstaller_1.0.21.0_Test/UploaderInstaller_1.0.21.0_x86.msixbundle" />
+		Uri="file:///C:/Temp/Apps/Demo-x86/UploaderInstaller_1.0.22.0_Test/UploaderInstaller_1.0.22.0_x86.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
