@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Temp/Apps/Demo-x86/WPFDemoAppInstaller_x86.appinstaller"
+	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainPackage
+		Name="27a21941-4300-4892-9c0d-55bb8833f4af"
+		Version="1.0.5.0"
+		Publisher="CN=DemoApp"
+		Uri="file:///C:/Temp/Apps/Demo-x86/WPFDemoAppInstaller_1.0.5.0_x86_Test/WPFDemoAppInstaller_1.0.5.0_x86.msix"
+		ProcessorArchitecture="x86" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
