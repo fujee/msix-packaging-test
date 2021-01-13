@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://fujee.github.io/msix-packaging-test/UploaderInstaller_x86.appinstaller"
+	Version="1.0.28.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainPackage
+		Name="2522553c-ffad-4162-9bce-03f823a8f853"
+		Version="1.0.28.0"
+		Publisher="CN=TestMaster"
+		Uri="https://fujee.github.io/msix-packaging-test/UploaderInstaller_1.0.28.0_x86_Test/UploaderInstaller_1.0.28.0_x86.msix"
+		ProcessorArchitecture="x86" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
